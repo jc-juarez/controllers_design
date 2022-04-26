@@ -1,4 +1,5 @@
 % Tecnológico de Monterrey
+% Author: Juan Carlos Juárez. A00824524.
 % Computerized Control
 % Homework 4 - Controllers Design
 % 3 Controllers: Deadbit, Dahlin and Kalman
